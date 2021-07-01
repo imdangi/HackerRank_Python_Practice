@@ -114,7 +114,7 @@ def printValues(n):
         print(i,end=" ")
 
         #Step 3 print spaces
-        for k in range(0,sp-len(decToOct(i))):
+        for k in range(0,sp-1-len(decToOct(i))):
             print(" ",end="")
 
         #Step 4 print num in octal
