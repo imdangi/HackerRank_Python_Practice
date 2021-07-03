@@ -91,4 +91,11 @@ Python Practice Solutions of hackerRank problems
 
 # Que 8 :- HCF of unlimited numbers 
 
-# Que 9 :- 
+# Que 9 :- itertools.permutations()
+
+    https://www.hackerrank.com/challenges/itertools-permutations/problem
+
+    You are given a string .
+    Your task is to print all possible permutations of size  of the string in lexicographic sorted order.
+
+# Que 10 :- 
