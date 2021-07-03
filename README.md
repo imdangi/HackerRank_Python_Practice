@@ -87,4 +87,6 @@ Python Practice Solutions of hackerRank problems
     The third line contains , the number of customers.
     The next  lines contain the space separated values of the  desired by the customer and , the price of the shoe.
 
-# Que 7 :-  
+# Que 7 :- HCF of two numbers using common factor methods
+
+# Que 8 :- 
