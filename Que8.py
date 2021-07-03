@@ -5,6 +5,7 @@ def hcf(num):
     factOfAllNum=[]
     for i in range(len(num)):
         factOfNum=[]
+    
         for k in range(1,num[i]+1):
             if num[i]%k==0:
                 factOfNum.append(k)

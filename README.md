@@ -89,4 +89,6 @@ Python Practice Solutions of hackerRank problems
 
 # Que 7 :- HCF of two numbers using common factor methods
 
-# Que 8 :- 
+# Que 8 :- HCF of unlimited numbers 
+
+# Que 9 :- 
