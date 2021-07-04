@@ -98,4 +98,21 @@ Python Practice Solutions of hackerRank problems
     You are given a string .
     Your task is to print all possible permutations of size  of the string in lexicographic sorted order.
 
-# Que 10 :- 
+# Que 10 :- Introduction to Sets
+
+    https://www.hackerrank.com/challenges/py-introduction-to-sets/problem
+
+    Now, let's use our knowledge of sets and help Mickey.
+
+    Ms. Gabriel Williams is a botany professor at District College. One day, she asked her student Mickey to compute the average of all the plants with distinct heights in her greenhouse.
+
+    Formula used:
+
+# Que 11 :- DefaultDict Tutorial
+
+    https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
+
+    In this challenge, you will be given  integers,  and . There are  words, which might repeat, in word group . There are  words belonging to word group . For each  words, check whether the word has appeared in group  or not. Print the indices of each occurrence of  in group . If it does not appear, print .
+
+# Que 12 :- 
+
