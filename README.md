@@ -1,3 +1,11 @@
+/**
+ * @author Manoj Kumar
+ * @email manoj8894421801@gmail.com
+ * @create date 2021-07-05 05:44:12
+ * @modify date 2021-07-05 05:44:12
+ * @desc [description]
+ */
+
 # HackerRank_Python_Practice
 Python Practice Solutions of hackerRank problems
 
@@ -114,5 +122,45 @@ Python Practice Solutions of hackerRank problems
 
     In this challenge, you will be given  integers,  and . There are  words, which might repeat, in word group . There are  words belonging to word group . For each  words, check whether the word has appeared in group  or not. Print the indices of each occurrence of  in group . If it does not appear, print .
 
-# Que 12 :- 
+# Que 12 :- Arrays HackerRank
 
+    https://www.hackerrank.com/challenges/np-arrays/problem
+
+    You are given a space separated list of numbers.
+    Your task is to print a reversed NumPy array with the element type float.
+
+# Que 13 :- Calendar Module
+
+    https://www.hackerrank.com/challenges/calendar-module/problem
+
+    You are given a date. Your task is to find what the day is on that date.
+
+# Que 14 :- Default dictionary HackerRank
+
+    https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
+
+    The defaultdict tool is a container in the collections class of Python. It's similar to the usual dictionary (dict) container, but the only difference is that a defaultdict will have a default value if that key has not been set yet. If you didn't use a defaultdict you'd have to check to see if that key exists, and if it doesn't, set it to what you want.
+
+# Que 15 :- Ordered Dictionary HackerRank
+
+    https://www.hackerrank.com/challenges/py-collections-ordereddict/problem
+
+    You are the manager of a supermarket.
+    You have a list of  items together with their prices that consumers bought on a particular day.
+    Your task is to print each item_name and net_price in order of its first occurrence.
+
+# Que 16 :- Exceptions HackerRank
+
+    https://www.hackerrank.com/challenges/exceptions/problem
+
+    You are given two values  and .
+    Perform integer division and print .
+
+# Que 17 :- Input hackerRank
+
+    https://www.hackerrank.com/challenges/input/problem
+
+    You are given a polynomial  of a single indeterminate (or variable), .
+    You are also given the values of  and . Your task is to verify if .
+
+# Que 18 :- 
