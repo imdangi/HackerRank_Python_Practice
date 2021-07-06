@@ -5,6 +5,9 @@
  * @modify date 2021-07-05 05:44:12
  * @desc [description]
  */
+# 01 Intermediate Problem Solving skill test question 1
+
+# 02 Intermediate Problem solving skikk test question 2
 
 # HackerRank_Python_Practice
 Python Practice Solutions of hackerRank problems
@@ -164,3 +167,4 @@ Python Practice Solutions of hackerRank problems
     You are also given the values of  and . Your task is to verify if .
 
 # Que 18 :- 
+
